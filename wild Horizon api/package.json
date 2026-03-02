@@ -1,0 +1,12 @@
+{
+  "name": "wild-horizons",
+  "version": "1.0.0",
+  "description": "classical project of node js",
+  "license": "ISC",
+  "author": "Navjot Singh",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
